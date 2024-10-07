@@ -1,0 +1,8 @@
+.vscode
+*.dSYM
+test_runner
+*.a
+*.out
+*.o
+lib/**/*
+!lib/Makefile
