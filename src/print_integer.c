@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   print_integer.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: garaujo <garaujo@student.42wolfsburg.de>   +#+  +:+       +#+        */
+/*   By: gaaraujo <gaaraujo@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/27 22:06:13 by garaujo           #+#    #+#             */
-/*   Updated: 2024/10/02 17:29:25 by garaujo          ###   ########.fr       */
+/*   Updated: 2025/01/20 14:54:20 by gaaraujo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

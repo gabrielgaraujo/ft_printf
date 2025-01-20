@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   print_pointer.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: garaujo <garaujo@student.42wolfsburg.de>   +#+  +:+       +#+        */
+/*   By: gaaraujo <gaaraujo@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/02 17:15:36 by garaujo           #+#    #+#             */
-/*   Updated: 2024/10/07 22:50:23 by garaujo          ###   ########.fr       */
+/*   Updated: 2025/01/20 14:54:18 by gaaraujo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

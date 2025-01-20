@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: garaujo <garaujo@student.42wolfsburg.de>   +#+  +:+       +#+        */
+/*   By: gaaraujo <gaaraujo@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/25 22:18:04 by garaujo           #+#    #+#             */
-/*   Updated: 2024/10/02 17:14:44 by garaujo          ###   ########.fr       */
+/*   Updated: 2025/01/20 14:54:24 by gaaraujo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

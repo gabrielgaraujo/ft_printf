@@ -14,9 +14,6 @@ all: $(NAME)
 $(NAME): $(OBJ)
 	ar -rcs $(NAME) $(OBJ)
 
-$(LIB_CMOCKA):
-	make -C lib
-
 clean:
 	rm -f $(OBJ)
 
